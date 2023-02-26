@@ -46,3 +46,11 @@ C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\obj\Debug\net6.0\ref
 C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.pdb
 C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.genruntimeconfig.cache
 C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\obj\Debug\net6.0\ref\UsuariosApi.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daniel.mastub\source\repos\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
