@@ -1,9 +1,7 @@
 ﻿
-using AutoMapper;
-using Microsoft.AspNetCore.Identity;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using UsuariosApi.Data.Dtos;
-using UsuariosApi.Models;
 using UsuariosApi.Services;
 
 namespace UsuariosApi.Controllers
